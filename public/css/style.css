@@ -1,0 +1,70 @@
+
+.sort{
+    cursor: pointer;
+}
+.filters{
+    margin-bottom: 20px;
+}
+h3{
+    margin-left: 50%;
+}
+.title{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.home{
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+.tree-president{
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: row;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    height: 40px;
+    text-align: center;
+    font: 15px Arial, Helvetica, sans-serif;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    background-color: #00AA00;
+}
+.tree-ministr{
+    margin-left: 0%;
+    background-color: #0d84e3;
+    width: 200px!important;
+}
+.tree-deputat{
+    margin-left: 20%;
+    background-color: #1abc9c;
+}
+.tree-assistant{
+    margin-left: 50%;
+    background-color: #9999FF;
+}
+.tree-working{
+    margin-left: 80%;
+    background-color: bisque;
+}
+.sort_column{
+    text-align: center;
+}
+.sort_column span{
+    font-weight: 600;
+}
+.students-table{
+    max-height: 500px;
+    overflow: auto;
+}
+.align-left{
+    padding-right: 10px;
+}
